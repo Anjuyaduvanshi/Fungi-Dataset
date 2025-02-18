@@ -47,7 +47,7 @@ The JSON file should contain entries like:
 
 ### Run the Script
 
-python fungi_generator.py
+python generator.py
 
 ### Output
 - Generated images are saved in the specified output directory.
